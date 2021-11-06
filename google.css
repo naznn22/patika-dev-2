@@ -1,0 +1,87 @@
+.b1{
+    display: flex;
+    justify-content: center;
+
+}
+p{
+    display: block;
+}
+
+.b2{
+    display: flex;
+    justify-content: center;
+    background-color: #EEEEEE;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 0px;
+    height: auto;
+}
+.b3{
+    display: flex;
+    justify-content: space-between;
+    justify-content: flex-start;
+}
+.sag{
+    background-color: #7EE5DA;
+    width:450px;
+    height: 90px;
+    margin-left: 75px;
+    margin-top: 4px;
+    float: left;
+
+}
+.sag li{
+    text-align: center;
+    list-style: none;
+    
+}
+.sag li a{
+    color: blue;
+}
+/*ORTA*/
+.orta{
+    background-color: #70CCC2;
+    width: 250px;
+    height: 90px;
+    margin-left: 2px;
+    margin-top: 4px;
+}
+.orta li{
+    text-align: center;
+    list-style: none;
+
+    
+}
+.orta li a{
+    font-size: 11px;
+   color: blue;
+}
+/*SOL*/
+.sol{
+    background-color: #62B3AA;
+    width: 496px;
+    margin-left: 2px;
+    margin-top: 4px;
+    height: 90px;
+    position: relative;
+    bottom: 12px;
+   
+}
+.sol li{
+    list-style: none;
+    display: inline-block;
+}
+.sol li a{
+    color: blue;
+    font-size: 11px;
+
+}
+.sol p{
+    padding-top: 2px;
+}
+.son{
+    text-align: center;
+    font-size: 15px;
+}
+
+
